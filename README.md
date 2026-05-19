@@ -142,7 +142,7 @@ Flask • SQLite • Jinja2 • Python
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/sam-razavi
-- Portfolio: https://applyluma.com
+- Portfolio: https://samincodes.com
 - Email: sam@samincodes.com
 
 ---
